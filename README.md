@@ -41,14 +41,6 @@ O sistema gera:
 pip install -r requirements.txt  
 streamlit run src/dashboard/app.py  
 
-## Estrutura
-
-src/
-  simulation.py
-  utils.py
-  dashboard/
-    app.py
-
 ## Insight central
 
 Não é possível maximizar controle e inferência ao mesmo tempo.
