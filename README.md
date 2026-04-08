@@ -168,7 +168,7 @@ src/
 
 A ideia foi formalizada em artigo disponível no LinkedIn:
 
-https://www.linkedin.com/in/lucas-amaral-dourado-b5939b2aa/recent-activity/all/
+[https://www.linkedin.com/in/lucas-amaral-dourado-b5939b2aa/recent-activity/all/](https://www.linkedin.com/pulse/f%C3%ADsica-epidemiol%C3%B3gica-e-epistemologia-matem%C3%A1tica-dos-amaral-dourado-yhlof/)
 
 ---
 
